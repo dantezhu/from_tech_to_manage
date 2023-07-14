@@ -7,3 +7,6 @@ title = "从技术到管理：可复制的职业发展之路"
 
 [output.html]
 additional-css = ["custom/custom.css"]
+
+[output.html.print]
+enable = false
