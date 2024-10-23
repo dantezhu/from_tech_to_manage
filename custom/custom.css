@@ -3,4 +3,5 @@
     --mono-font: 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace;
     --code-font-size: 0.9em;
     font-variant-ligatures: none;
+    font-family: Arial, sans-serif;
 }
