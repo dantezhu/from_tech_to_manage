@@ -2,6 +2,7 @@
     --content-max-width: 1024px;
     --mono-font: 'SF Mono', 'Roboto Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace;
     --code-font-size: 0.9em;
+    --fg: #333;
     font-variant-ligatures: none;
     font-family: 'PingFang SC', Inter, Roboto, 'Microsoft YaHei', sans-serif;
 }
