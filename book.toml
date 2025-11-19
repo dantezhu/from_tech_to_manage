@@ -1,7 +1,6 @@
 [book]
 authors = ["dantezhu"]
 language = "en"
-multilingual = false
 src = "src"
 title = "从技术到管理：可复制的职业发展之路"
 
