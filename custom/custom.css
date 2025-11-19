@@ -5,3 +5,7 @@
     font-variant-ligatures: none;
     font-family: 'PingFang SC', Inter, Roboto, 'Microsoft YaHei', sans-serif;
 }
+
+body {
+    font-size: 17px;
+}
