@@ -12,4 +12,4 @@ enable = false
 
 # 依赖 HollowMan6/mdbook-pdf
 # mdbook build
-[output.pdf]
+# [output.pdf]
