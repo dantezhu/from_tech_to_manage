@@ -9,3 +9,6 @@ additional-css = ["custom/custom.css"]
 
 [output.html.print]
 enable = false
+
+# 依赖 HollowMan6/mdbook-pdf
+[output.pdf]
