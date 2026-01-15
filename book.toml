@@ -11,4 +11,5 @@ additional-css = ["custom/custom.css"]
 enable = false
 
 # 依赖 HollowMan6/mdbook-pdf
+# mdbook build
 [output.pdf]
