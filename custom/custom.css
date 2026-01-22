@@ -7,9 +7,10 @@
 }
 
 body {
-    font-size: 17px;
+    font-size: 1.7rem;
 }
 
 .light {
-    color: #333;
+    --fg: #333;
+    --sidebar-fg: #333;
 }
