@@ -10,6 +10,10 @@ body {
     font-size: 1.7rem;
 }
 
+pre code {
+    line-height: 1.45;
+}
+
 .light {
     --fg: #333;
     --sidebar-fg: #333;
